@@ -31,12 +31,12 @@ jobs:
           aws-region: "ap-northeast-2"
       
       - name: clear s3 bucket
-        run: aws s3 rm s3://www.switht.co.kr/ --recursive
+        run: aws s3 rm s3://www.woojin.today/ --recursive
 
 
       #s3에 dist폴더 내의 파일들을 copy해서 넣기
       - name: deploy to s3
-        run: aws s3 cp ./dist s3://www.switht.co.kr/ --recursive
+        run: aws s3 cp ./dist s3://www.woojin.today/ --recursive
 
       #cloudfront 무효화 작업으로 cloudfront id 가져오기
       - name: invalidate cloudfront caches
