@@ -95,8 +95,7 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 
 
 
-## 📝 요구사항정의서 - [요구사항 정의서 상세보기](https://docs.google.com/spreadsheets/d/1GH_rCJKcHojk6-SSolw8yv9uBQK2eujsTFvQqh4fSvo/edit?usp=sharing)
-
+## 📝 요구사항정의서 - [요구사항 정의서 상세보기](https://docs.google.com/spreadsheets/d/1GH_rCJKcHojk6-SSolw8yv9uBQK2eujsTFvQqh4fSvo/edit?gid=727624387#gid=727624387)
 ![1](https://github.com/user-attachments/assets/980a172b-9221-4091-8995-871f1631bf5e)
 ![2](https://github.com/user-attachments/assets/cb8a25b2-342e-4f5f-a009-2823c5849d1f)
 
