@@ -15,6 +15,7 @@
 
 
 현 교육 시장에서는 대형 플랫폼들이 시장을 독점하면서 프리랜서 강사들이 교육 서비스 제공 기회를 얻기 어려워졌고, 소비자 입장에서는 다양한 교육 기회를 접하기 힘든 상황이 발생하고 있습니다. 대형 플랫폼들은 특정 강사와 컨텐츠에 대한 과도한 집중을 야기하고, 그로 인해 소비자의 선택의 폭이 제한되어 교육의 다양성이 정체되는 문제를 초래하고 있습니다.
+<br/>
 
 -	프로젝트 목표
 
@@ -35,6 +36,7 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 | **결제 기능**       | 포트원(Payments) API를 통합하여, 수강 신청 시 안전하고 간편하게 결제할 수 있는 기능을 제공합니다. 다양한 결제 옵션을 지원하여 사용자 경험을 향상시켰습니다. |
 | **대기열 기능**     | 인기 강사의 강의에 대한 높은 트래픽 상황을 대비하여 대기열 기능을 제공했습니다. 이를 통해 사용자들은 불편 없이 차례를 기다릴 수 있으며, 전체적인 사용자 경험을 개선했습니다. |
 
+<br/>
 
 ## 📍 기대효과
 
@@ -47,7 +49,7 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 
 **SwithT 프로젝트**는 통합적인 기능 제공을 통해 교육의 접근성과 효율성을 극대화하며, 사용자 경험을 개선하고 교육 시장의 다양성을 확장합니다.
 
-
+<br/>
 
 ## 🛠 기술 스택
 
@@ -92,8 +94,7 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 ## 🗓️ Work Breakdown Structure - [WBS 상세보기](https://docs.google.com/spreadsheets/d/1GH_rCJKcHojk6-SSolw8yv9uBQK2eujsTFvQqh4fSvo/edit?gid=811390028#gid=811390028)
 ![WBS_10-25](https://github.com/user-attachments/assets/828caf1b-0c5e-47ed-8601-9927523f71b5)
 
-
-
+<br/>
 
 ## 📝 요구사항정의서 - [요구사항 정의서 상세보기](https://docs.google.com/spreadsheets/d/1GH_rCJKcHojk6-SSolw8yv9uBQK2eujsTFvQqh4fSvo/edit?gid=727624387#gid=727624387)
 ![1](https://github.com/user-attachments/assets/980a172b-9221-4091-8995-871f1631bf5e)
