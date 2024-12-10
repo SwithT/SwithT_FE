@@ -169,6 +169,8 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 ## 📝 프로그램 사양서 - [프로그램 사양서 상세보기](https://docs.google.com/spreadsheets/d/1GH_rCJKcHojk6-SSolw8yv9uBQK2eujsTFvQqh4fSvo/edit?gid=1934764833#gid=1934764833)
 ![프로그램 사양서(1)_10-25](https://github.com/user-attachments/assets/fbd47cb2-5c84-4c2f-81fa-088d963adf1c)
 ![프로그램 사양서(2)_10-25](https://github.com/user-attachments/assets/d10f4958-d61f-48ab-882b-d68c1efa7d24)
+
+
 <br/>
 
 
@@ -180,6 +182,7 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 ![image](https://github.com/user-attachments/assets/7400b73a-5e2a-4365-a172-bddda2f4127e)
 ![image](https://github.com/user-attachments/assets/69621317-aa04-4592-a6d1-2f24f9700f86)
 ![image](https://github.com/user-attachments/assets/47a607de-a3f9-4edf-b3fa-cb60a8173893)
+
 
 <br/>
 
